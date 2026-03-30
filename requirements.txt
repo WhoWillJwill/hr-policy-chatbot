@@ -1,0 +1,11 @@
+# HR Policy Chatbot - 
+# ================================
+# No pip installs required — this project uses Python's standard library only.
+#
+# You DO need Ollama installed and running locally:
+#
+#   1. Download Ollama: https://ollama.com
+#   2. Pull the model:  ollama pull llama3.2
+#   3. Start Ollama:    ollama serve
+#
+# Python 3.8+ required
